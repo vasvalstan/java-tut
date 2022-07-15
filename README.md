@@ -1,1 +1,1 @@
-test readme
+Learning Java for Selenium automation from TestAutomationUniversity :) 
