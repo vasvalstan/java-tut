@@ -4,8 +4,8 @@ import java.util.Scanner;
 
 public class HomeAreaCalculatorRedo {
     public static void main(String[] args) {
-        Rectangle kitchen = getRoom();
-        Rectangle bathroom = getRoom();
+       // Rectangle kitchen = getRoom();//
+        // Rectangle bathroom = getRoom();
     }
 
     public Rectangle getRoom(){
